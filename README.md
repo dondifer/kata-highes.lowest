@@ -1,1 +1,1 @@
-# kata-highes.lowest
+# kata-highes-lowest
